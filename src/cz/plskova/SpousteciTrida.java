@@ -11,7 +11,7 @@ public class SpousteciTrida {
 
     public static void run() {
         SwingExceptionHandler.install();
-        HlavniOkno okno = new HlavniOkno();
+        HlavniOknoAplikace okno = new HlavniOknoAplikace();
         okno.setVisible(true);
     }
 

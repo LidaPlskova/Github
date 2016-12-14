@@ -3,15 +3,17 @@ package cz.plskova;
 import java.awt.*;
 import javax.swing.*;
 
-public class HlavniOkno extends JFrame {
+public class HlavniOknoAplikace extends JFrame {
 
     // JFormDesigner - Variables declaration - DO NOT MODIFY  //GEN-BEGIN:variables
     // Generated using JFormDesigner non-commercial license
     // JFormDesigner - End of variables declaration  //GEN-END:variables
     JPanel contentPane;
 
-    public HlavniOkno() {
+    public HlavniOknoAplikace() {
         initComponents();
+
+        int value = 0;
     }
 
     private void initComponents() {
